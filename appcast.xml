@@ -9,8 +9,8 @@
             <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/muzium-emu/cue-controller-releases/main/CUE%20Controller_v4.0.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/muzium-emu/cue-controller-releases/releases/download/v4.0.0/CUE%20Controller_v4.0.0.dmg" length="66567353" type="application/octet-stream" sparkle:edSignature="TNnsev7bNbP1THhAzTom9d76ByYetisHmWx2wi0FBxa3kCYid32WnmiTc3kEG3yc4Kb6R9vY6IntSBqC6NcaAw=="/>
+            <sparkle:releaseNotesLink>https://github.com/muzium-emu/cue-controller-releases/releases/tag/v4.0.0</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/muzium-emu/cue-controller-releases/releases/download/v4.0.0/CUE.Controller_v4.0.0.dmg" length="66567353" type="application/octet-stream" sparkle:edSignature="TNnsev7bNbP1THhAzTom9d76ByYetisHmWx2wi0FBxa3kCYid32WnmiTc3kEG3yc4Kb6R9vY6IntSBqC6NcaAw=="/>
         </item>
     </channel>
 </rss>
