@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>CUE Controller Updates</title>
-    <link>https://github.com/muzium-emu/cue-controller-releases</link>
-    <description>Public update feed for CUE Controller.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CUE Controller</title>
+        <item>
+            <title>4.0.0</title>
+            <pubDate>Thu, 14 May 2026 12:43:47 +0900</pubDate>
+            <sparkle:version>4.0.0</sparkle:version>
+            <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/muzium-emu/cue-controller-releases/main/CUE%20Controller_v4.0.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/muzium-emu/cue-controller-releases/releases/download/v4.0.0/CUE%20Controller_v4.0.0.dmg" length="66567353" type="application/octet-stream" sparkle:edSignature="TNnsev7bNbP1THhAzTom9d76ByYetisHmWx2wi0FBxa3kCYid32WnmiTc3kEG3yc4Kb6R9vY6IntSBqC6NcaAw=="/>
+        </item>
+    </channel>
 </rss>
