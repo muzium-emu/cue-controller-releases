@@ -4,13 +4,13 @@
         <title>CUE Controller</title>
         <item>
             <title>4.0.0</title>
-            <pubDate>Thu, 14 May 2026 18:05:17 +0900</pubDate>
+            <pubDate>Thu, 14 May 2026 22:34:08 +0900</pubDate>
             <sparkle:version>4.0.0</sparkle:version>
             <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink>https://github.com/muzium-emu/cue-controller-releases/releases/tag/v4.0.0</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/muzium-emu/cue-controller-releases/releases/download/v4.0.0/CUE_Controller_v4.0.0.dmg" length="65176985" type="application/octet-stream" sparkle:edSignature="Mycbfn7DJjFIBer/VnPsIuh0OLKp27CUNtp2MkBcZNZuo6WkDH2E609LPxwakpJkZvBtPpFgVPIygwpPoAF0BQ=="/>
+            <enclosure url="https://github.com/muzium-emu/cue-controller-releases/releases/download/v4.0.0/CUE_Controller_v4.0.0.dmg" length="66910872" type="application/octet-stream" sparkle:edSignature="PVL39cIz0BrznywGJqR/dN5uf7tsWkXtvAhxesB3HwNLNRY+6Su+4rR6PmamP3Zg5Vu8BOnANrEkuumAcHUqAQ=="/>
         </item>
     </channel>
 </rss>
